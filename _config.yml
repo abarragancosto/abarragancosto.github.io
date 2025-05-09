@@ -15,9 +15,11 @@ plugins:
 # ── Opciones de Minimal Mistakes ───────────────
 logo: "/assets/images/logo.png"   
 masthead_title: "QA × IA Weekly"  
-minimal_mistakes_skin: "default"  
+minimal_mistakes_skin: "air"  
 
 future: true
 
 # Formato de enlaces a posts
 permalink: /blog/:year/:month/:day/:slug
+paginate: 5                      # cuántos posts por página
+paginate_path: "/blog/page:num/" # ruta de las páginas 2,3…

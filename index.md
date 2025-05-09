@@ -1,15 +1,14 @@
 ---
-layout: splash          # pantalla completa con hero
+layout: home          # lista de posts + hero arriba
 title: "QA × IA – Alberto Barragán"
-subtitle: "Automatización E2E y modelos de IA."
+subtitle: "Automatización E2E y modelos de IA sin humo."
 author_profile: false
 header:
-  overlay_color: "#00264d"
-  overlay_filter: "0.3"
-  overlay_image: /assets/images/banner-qa-ia-weekly.png   # si quieres
+  overlay_image: /assets/images/banner-qa-ia-weekly.png   # tu banner
+  overlay_filter: 0.25
   actions:
-    - label: "Ver el blog"
+    - label: "Ir al blog"
       url: "/blog/"
 ---
 
-{% include feature_row id="welcome" type="center" %}
+<!-- texto opcional o deja vacío -->

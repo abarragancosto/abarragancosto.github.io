@@ -1,0 +1,13 @@
+main:
+  - title: "Home"
+    url: "/"
+  - title: "Blog"
+    url: "/blog/"
+  - title: "Proyectos"
+    url: "/projects/"
+  - title: "GitHub"
+    url: "https://github.com/abarragancosto"
+  - title: "Dev.to"
+    url: "https://dev.to/abarragancosto"
+  - title: "Contacto"
+    url: "mailto:alberto@albertobarragan.dev"
