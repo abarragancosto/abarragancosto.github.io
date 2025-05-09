@@ -3,7 +3,7 @@ title: "Presentación y declaración de intenciones"
 layout: post        # el tema Cayman usa 'post' por defecto
 ---
 
-![Banner](../../assets/images/banner-qa-ia-weekly.png)
+![Banner](../assets/images/banner-qa-ia-weekly.png)
 ## 1. ¿Quién soy?
 
 ¡Hola! Soy **Alberto Barragán**, ingeniero informático con casi una década en calidad de software:
