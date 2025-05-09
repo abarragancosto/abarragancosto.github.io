@@ -10,6 +10,7 @@ plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-seo-tag
+  - jekyll-include-cache 
 
 # ── Opciones de Minimal Mistakes ───────────────
 logo: "/assets/images/logo.png"   
