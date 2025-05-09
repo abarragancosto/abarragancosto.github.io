@@ -3,3 +3,4 @@ description: "Automatización E2E y modelos de IA."
 baseurl: ""
 theme: jekyll-theme-cayman
 permalink: /blog/:year/:month/:day/:slug
+future: true

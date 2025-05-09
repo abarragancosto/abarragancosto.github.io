@@ -6,10 +6,10 @@ layout: post        # el tema Cayman usa 'post' por defecto
 ![Banner](../assets/images/banner-qa-ia-weekly.png)
 ## 1. ¿Quién soy?
 
-¡Hola! Soy **Alberto Barragán**, ingeniero informático con casi una década en calidad de software:
+¡Hola! Soy **Alberto Barragán**, ingeniero informático con una década en calidad de software:
 
 * 2011-2016 — doble grado en Ingeniería Informática e Ingeniería de Computadores.  
-* 2016-2024 — QA Automation en proyectos fintech y sanitario: Java + Selenium/Appium, Javascript + WebdriverIO, Karate, Reporting...
+* 2015-2024 — QA Automation en proyectos fintech y sanitario: Java + Selenium/Appium, Javascript + WebdriverIO, Karate, Reporting...
 * 2024 — Máster en Inteligencia Artificial: investigación en OCR multimodal + traducción EN→ES.  
 * Experimentos recurrentes con **chatbots** (WhatsApp + Google Calendar, Skill de Alexa...).
 
