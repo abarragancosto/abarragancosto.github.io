@@ -1,9 +1,7 @@
 ---
 title: "Presentación y declaración de intenciones"
-layout: post        # el tema Cayman usa 'post' por defecto
+layout: post
 ---
-
-![Banner](../assets/images/banner-qa-ia-weekly.png)
 ## 1. ¿Quién soy?
 
 ¡Hola! Soy **Alberto Barragán**, ingeniero informático con una década en calidad de software:
@@ -40,7 +38,7 @@ Mi motivación: **hacer que la calidad impulse al producto**, no que lo retrase 
 
 ---
 
-## 4. Roadmap trimestre 1
+## 4. Roadmap
 
 | Semana | Tema |
 |-------:|------|

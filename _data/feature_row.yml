@@ -1,0 +1,11 @@
+welcome:
+  - title: "Últimos posts"
+    excerpt: "Se actualiza solo con cada publicación."
+    url: "/blog/"
+    btn_label: "Explorar"
+    btn_class: "btn--primary"
+  - title: "Proyectos"
+    excerpt: "Repositorios y PoCs listos para clonar."
+    url: "/projects/"
+    btn_label: "Ir a GitHub"
+    btn_class: "btn--primary"

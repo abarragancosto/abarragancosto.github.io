@@ -1,6 +1,22 @@
 title:  "QA × IA – Alberto Barragán"
 description: "Automatización E2E y modelos de IA."
-baseurl: ""
-theme: jekyll-theme-cayman
-permalink: /blog/:year/:month/:day/:slug
+url: "https://albertobarragan.dev"   
+baseurl: ""                         
+
+# ── Habilitar Minimal Mistakes ─────────────────────────────
+remote_theme: "mmistakes/minimal-mistakes@4.26.1"  
+plugins:
+  - jekyll-remote-theme
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+# ── Opciones de Minimal Mistakes ───────────────
+logo: "/assets/images/logo.png"   
+masthead_title: "QA × IA Weekly"  
+minimal_mistakes_skin: "default"  
+
 future: true
+
+# Formato de enlaces a posts
+permalink: /blog/:year/:month/:day/:slug
