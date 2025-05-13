@@ -13,3 +13,15 @@
   }
 }
 
+.prose pre {
+  border-left: 4px solid rgb(14 165 233); 
+  padding-left: 1rem;
+}
+.prose img {
+  @apply mx-auto shadow-md rounded;
+}
+.prose table {
+  display: block;
+  overflow-x: auto;
+  white-space: nowrap;
+}
