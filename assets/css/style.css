@@ -13,8 +13,8 @@
   }
 }
 
-.prose pre { border-left: 4px solid rgb(6 182 212); padding-left: 1rem; overflow-x: auto; }
+.prose pre { border-left: 4px solid rgb(16 185 129); padding-left: 1rem; overflow-x: auto; }
 
-.prose img { display: block; margin-left: auto; margin-right: auto; border-radius: 0.5rem; box-shadow: 0 4px 10px rgb(0 0 0 / .1); }
+.prose img { display: block; margin: 2rem auto; border-radius: 0.5rem; box-shadow: 0 4px 12px rgb(0 0 0 / .1); }
 
 .prose table { display: block; overflow-x: auto; }

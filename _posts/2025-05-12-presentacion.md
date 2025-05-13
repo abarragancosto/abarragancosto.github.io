@@ -1,5 +1,6 @@
 ---
-title: "Presentación"  
+title:  "Presentación y declaración de intenciones"
+excerpt: "Por qué nace QA × IA Weekly y qué vas a encontrar cada semana."
 ---
 
 ## 1. ¿Quién soy?
