@@ -13,15 +13,8 @@
   }
 }
 
-.prose pre {
-  border-left: 4px solid rgb(14 165 233); 
-  padding-left: 1rem;
-}
-.prose img {
-  @apply mx-auto shadow-md rounded;
-}
-.prose table {
-  display: block;
-  overflow-x: auto;
-  white-space: nowrap;
-}
+.prose pre { border-left: 4px solid rgb(6 182 212); padding-left: 1rem; overflow-x: auto; }
+
+.prose img { display: block; margin-left: auto; margin-right: auto; border-radius: 0.5rem; box-shadow: 0 4px 10px rgb(0 0 0 / .1); }
+
+.prose table { display: block; overflow-x: auto; }

@@ -1,13 +1,5 @@
 ---
-title:  "Presentación y declaración de intenciones"
-excerpt: "Por qué nace QA × IA Weekly y qué vas a encontrar cada semana."
-layout: single          # estilo Minimal Mistakes
-classes: wide           # 800 px de ancho, márgenes generosos
-toc: true               # índice flotante
-header:
-  overlay_image: /assets/images/banner-qa-ia-weekly.png
-  overlay_filter: 0.25
-  caption: "QA × IA Weekly"
+title: "Presentación"  
 ---
 
 ## 1. ¿Quién soy?
