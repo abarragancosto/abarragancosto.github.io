@@ -1,0 +1,26 @@
+<header class="sticky top-0 z-30 backdrop-blur bg-white/75 dark:bg-neutral-900/75 border-b border-neutral-200 dark:border-neutral-800">
+  <div class="max-w-6xl mx-auto flex items-center justify-between px-4 py-3">
+    <a href="{{ '/' | relative_url }}" class="text-xl font-semibold tracking-tight">QA × IA</a>
+    <nav class="hidden md:flex space-x-6">
+      {% for item in site.data.navigation %}
+        {% if item.external_url %}
+          <a href="{{ item.external_url }}" target="_blank" class="hover:text-teal-600">{{ item.title }}</a>
+        {% else %}
+          <a href="{{ item.url | relative_url }}" class="hover:text-teal-600">{{ item.title }}</a>
+        {% endif %}
+      {% endfor %}
+    </nav>
+    <button id="menuBtn" class="md:hidden p-2" aria-label="Abrir menú">
+      <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 8h16M4 16h16"/></svg>
+    </button>
+  </div>
+  <div id="mobileMenu" class="md:hidden hidden px-4 pb-4 space-y-2">
+    {% for item in site.data.navigation %}
+      {% if item.external_url %}
+        <a href="{{ item.external_url }}" target="_blank" class="block py-1">{{ item.title }}</a>
+      {% else %}
+        <a href="{{ item.url | relative_url }}" class="block py-1">{{ item.title }}</a>
+      {% endif %}
+    {% endfor %}
+  </div>
+</header>
