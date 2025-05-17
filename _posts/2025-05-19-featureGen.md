@@ -1,11 +1,10 @@
 ---
-title: "De documentación y capturas al `.feature`: IA local con Llama 3.2 + Llava"
+title: "De documentación y capturas al .feature: IA local con Llama 3.2 + Llava"
 excerpt: "Genera escenarios Gherkin (o casos de uso) sin filtrar tus datos a la nube."
 classes: wide
 toc: true
 date: 2025-05-19
 header:
-  overlay_image: /assets/images/feature-vision-hero.png   # ⬅️ captura 1
   overlay_filter: 0.25
   caption: "QA × IA Weekly · Artículo 2"
 ---
