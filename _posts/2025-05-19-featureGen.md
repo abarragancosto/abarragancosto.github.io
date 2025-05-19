@@ -9,14 +9,18 @@ header:
   caption: "QA × IA Weekly · Artículo 2"
 ---
  
-> Hoy ensamblamos un *workflow* que transforma requisitos + (opcional) mock‑up en un archivo `.feature` (Gherkin) o `.txt` de casos de uso.  
-> Todo corre **en local** con dos modelos ligeros:
->
+> En este artículo te muestro cómo montar un flujo completo de generación de escenarios .feature (Gherkin) y casos de uso a partir de requisitos funcionales y capturas de pantalla, todo ejecutado 100% en local, sin necesidad de enviar datos sensibles a servicios externos. Esto elimina las barreras legales y técnicas que muchas empresas ponen cuando se quiere usar IA con datos internos.  
+> Gracias a herramientas como Ollama, puedes tener modelos LLM como Llama 3.2 (para texto) y Llava (para visión) corriendo directamente en tu equipo, sin pagar APIs, sin exponer datos, sin depender de internet...  
+> Este primer post no solo sirve como ejemplo práctico para profesionales de QA, sino como guía de cómo desplegar e integrar modelos locales de forma sencilla. Es el primer paso de una serie en la que exploraremos cómo pasar de requisitos a código de automatización real generado por IA.  
+> Si trabajas en QA, desarrollo o estás explorando cómo usar IA sin comprometer la privacidad de tus proyectos, este artículo es para ti.  
+
+> Modelos que se utilizarán:
+> 
 > | Tarea | Modelo        | Peso Q4 | RAM real |
 > |-------|---------------|--------|----------|
 > | Texto → Gherkin | **Llama 3.2** | 4.4 GB | 6–8 GB   |
 > | Imagen + texto → Gherkin | **Llava**     | 4.7 GB | 7-8 GB   |
->
+
 
 ## 1. ¿Por qué ejecutar la IA **en local**?
 
