@@ -4,9 +4,9 @@ title: "QA × IA – Alberto Barragán"
 ---
 <section class="max-w-6xl mx-auto px-4 py-24 flex flex-col lg:flex-row items-center gap-10">
   <div class="flex-1">
-    <h1 class="text-4xl sm:text-5xl font-extrabold mb-6 leading-tight">Calidad de Software &amp; <span class="text-teal-600">Inteligencia Artificial</span></h1>
+    <h1 class="text-4xl sm:text-5xl font-extrabold mb-6 leading-tight">Calidad de Software &amp; <span class="text-sky-600">Inteligencia Artificial</span></h1>
     <p class="text-lg mb-8">Destripando QA, automatización E2E y modelos IA con ejemplos del mundo real. Cada semana, un nuevo artículo directamente desde mi laboratorio.</p>
-    <a href="/blog/" class="inline-block bg-teal-600 text-white px-6 py-3 rounded-xl shadow hover:bg-teal-700 transition">Ir al Blog</a>
+    <a href="/blog/" class="inline-block bg-sky-600 text-white px-6 py-3 rounded-xl shadow hover:bg-sky-700 transition">Ir al Blog</a>
   </div>
   <div class="flex-1">
     <img src="/assets/images/logo.png" alt="Ilustración QA & IA" class="w-full">
